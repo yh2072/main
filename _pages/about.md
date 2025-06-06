@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-## My Profile
+## About Me
 As a Ph.D. student in Educational Technology at New York University, I am a researcher, educator, and entrepreneur with a strong interdisciplinary background in cognitive science, educational neuroscience, artificial intelligence, and virtual reality. My research and professional work focus on developing innovative solutions at the intersection of these fields, with particular emphasis on neuroaesthetics, multimodal affective computing, and evidence-based learning experience design in virtual environments.
 
 I excel at translating complex research theories into practical product applications, with comprehensive experience spanning the entire product development lifecycle—from user needs analysis and prototyping to technical implementation and market validation. My expertise includes AI model fine-tuning, VR/AR development, and advanced data analysis techniques, complemented by strong skills in user research, product design, and team collaboration. I have successfully led multiple projects that combine cutting-edge technologies with educational and therapeutic applications, demonstrating my ability to bridge theoretical research with practical implementation.
