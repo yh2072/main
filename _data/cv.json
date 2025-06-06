@@ -1,62 +1,62 @@
 {
   "basics": {
-    "name": "Your Sidebar Name",
-    "email": "none@example.org",
+    "name": "Yuqi Hang",
+    "email": "yh2072@nyu.edu",
     "phone": "",
-    "website": "https://academicpages.github.io",
-    "summary": "Currently employed at Red Brick University. Short biography for the left-hand sidebar",
+    "website": "https://yh2072.github.io",
+    "summary": "Ph.D. student in Educational Technology at New York University, researcher, educator, and entrepreneur with expertise in educational technology, educational neuroscience, artificial intelligence, and virtual reality.",
     "location": {
       "address": "",
       "postalCode": "",
-      "city": "Earth",
+      "city": "New York",
       "countryCode": "US",
-      "region": ""
+      "region": "NY"
     },
     "profiles": [
       {
         "network": "Google Scholar",
-        "username": "",
-        "url": "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+        "username": "yh2072",
+        "url": "https://scholar.google.com/citations?user=yguAC6MAAAAJ&hl=en"
       },
       {
         "network": "ORCID",
-        "username": "",
-        "url": "http://orcid.org/yourorcidurl"
+        "username": "yh2072",
+        "url": "https://orcid.org/0000-0002-4808-8481"
       },
       {
         "network": "GitHub",
-        "username": "academicpages",
-        "url": "https://github.com/academicpages"
+        "username": "yh2072",
+        "url": "https://yh2072.github.io"
       }
     ]
   },
   "work": [],
   "education": [
     {
-      "institution": "GitHub University",
-      "area": "Ph.D in Version Control Theory",
+      "institution": "New York University",
+      "area": "Ph.D in Educational Communication and Technology",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2018",
-      "gpa": null,
+      "startDate": "2023",
+      "endDate": "2027",
+      "gpa": 3.9,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "M.S. in Jekyll",
+      "institution": "Harvard University",
+      "area": "M.Ed in Mind, Brain, and Education",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2014",
-      "gpa": null,
+      "startDate": "2020",
+      "endDate": "2021",
+      "gpa": 3.7,
       "courses": []
     },
     {
-      "institution": "GitHub University",
-      "area": "B.S. in GitHub",
+      "institution": "University of Liverpool & XJTLU",
+      "area": "B.S. in Biological Sciences",
       "studyType": "",
-      "startDate": "",
-      "endDate": "2012",
-      "gpa": null,
+      "startDate": "2016",
+      "endDate": "2020",
+      "gpa": 3.7,
       "courses": []
     }
   ],

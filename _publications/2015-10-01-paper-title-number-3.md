@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 3"
+title: "Dual-stream cortical pathways mediate sensory prediction"
 collection: publications
 category: manuscripts
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2015-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides3.pdf'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+permalink: /publication/2023-07-15-dual-stream-cortical-pathways
+excerpt: 'We hypothesized that motor-based and memory-based predictions are mediated by distinct descending networks from motor and memory systems to the sensory cortices.'
+date: 2023-07-15
+venue: 'Cerebral Cortex'
+paperurl: 'https://doi.org/10.1093/cercor/bhad567'
+citation: 'Chu, Q., Ma, O., Hang, Y., & Tian, X. (2023). &quot;Dual-stream cortical pathways mediate sensory prediction.&quot; <i>Cerebral Cortex</i>. 33(14), 8890-8903.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Predictions are constantly generated from diverse sources to optimize cognitive functions in the ever-changing environment. However, the neural origin and generation process of top-down induced prediction remain elusive. We hypothesized that motor-based and memory-based predictions are mediated by distinct descending networks from motor and memory systems to the sensory cortices. Using functional magnetic resonance imaging (fMRI) and a dual imagery paradigm, we found that motor and memory upstream systems activated the auditory cortex in a content-specific manner. Moreover, the inferior and posterior parts of the parietal lobe differentially relayed predictive signals in motor-to-sensory and memory-to-sensory networks. Dynamic causal modeling of directed connectivity revealed selective enabling and modulation of connections that mediate top-down sensory prediction and ground the predictive processes in the brain.

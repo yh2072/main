@@ -1,14 +1,13 @@
 ---
-title: "Paper Title Number 2"
+title: "Exploring the neural correlates of Flow experience with multifaceted tasks and a single-Channel Prefrontal EEG Recording"
 collection: publications
-category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-slidesurl: 'http://academicpages.github.io/files/slides2.pdf'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+category: journal
+permalink: /publication/2024-03-15-exploring-neural-correlates-flow-experience
+excerpt: 'This study aimed to explore the neural correlates of flow experience with the employment of multifaceted flow-induction tasks.'
+date: 2024-03-15
+venue: 'Sensors'
+paperurl: 'https://www.mdpi.com/1424-8220/24/6/1894'
+citation: 'Hang, Y.; Unenbat, B.; Tang, S.; Wang, F.; Lin, B.; Zhang, D. Exploring the neural correlates of Flow experience with multifaceted tasks and a single-Channel Prefrontal EEG Recording. <i>Sensors</i> 2024, 24, 1894.'
 ---
 
-The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
+Flow experience, characterized by deep immersion and complete engagement in a task, is highly recognized for its positive psychological impacts. However, previous studies have been restricted to using a single type of task, and the exploration of its neural correlates has been limited. This study aimed to explore the neural correlates of flow experience with the employment of multifaceted flow-induction tasks. Six tasks spanning mindfulness, artistic tasks, free recall, and varying levels of Tetris complexity (easy, flow, and hard conditions) were employed to have relatively complete coverage of the known flow-induction tasks for a better induction of individualized flow experience. Twenty-eight participants were recruited to perform these six tasks with a single-channel prefrontal EEG recording. Significant positive correlations were observed between the subjective flow scores of the individual's best-flow-experience task and the EEG activities at the delta, gamma, and theta bands, peaking at latencies around 2 min after task onset. The outcomes of regression analysis yield a maximum R2 of 0.163. Our findings report the EEG correlates of flow experience in naturalistic settings and highlight the potential of portable and unobtrusive EEG technology for an objective measurement of flow experience. 
